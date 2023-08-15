@@ -1,0 +1,7 @@
+main: me.werfrag.Main
+name: StaffMode
+version: 1.0
+commands:
+  staff:
+    usage: $command
+    description: Comando che ti mette in staff-mode
